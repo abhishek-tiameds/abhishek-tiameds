@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abhishek (aka @abhishek-tiameds) 
+# 👋 Hi, I’m Abhishek 
 
 ## 👀 About Me
 I'm a passionate developer with a focus on building **modern web applications** and **cloud-native solutions**. I specialize in both front-end and back-end technologies and enjoy working with a wide array of tools to create efficient, scalable, and visually appealing applications.
